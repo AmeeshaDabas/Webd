@@ -3,6 +3,7 @@ body
 	background-image:url('gamingden.jpg');
 	background-size:100% 100%;
 	background-repeat:no-repeat;
+	user-select: none;
 }
 h1
 {
